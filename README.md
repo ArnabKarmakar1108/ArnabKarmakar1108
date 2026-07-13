@@ -1,201 +1,180 @@
-# Hello, I am Arnab 👋
+<div align="center">
 
-<p style="font-size:22px; color:#0e75b6;"><strong>Welcome to my GitHub profile :)</strong> <img align="right" src="https://komarev.com/ghpvc/?username=ArnabKarmakar1108&label=Profile%20views&color=0e75b6&style=flat" alt="Arnab-K" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Arnab+Karmakar+%F0%9F%91%8B;SDE-I+at+Cloudera;Apache+Impala+Contributor;Where+SQL+meets+Scale;Distributed+Systems+and+Big+Data" alt="Typing SVG" />
 
-<img align = "left" src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width="300">
-
-<br></br>
-
-<p align="center"> 🔭 Exploring new technologies and frameworks like machine learning, cloud computing, and microservices, constantly challenging myself to apply them in real-world projects. </p>
-<!-- <br></br> -->
-
-<p align="center"> 🌟 Driven by creativity, I enjoy blending technology with problem-solving, always seeking innovative ways to push boundaries and explore new ideas. </p>
-<!-- <br></br> -->
-
-<p align="center"> 📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India, with a strong foundation in algorithms, systems, and problem-solving. </p>
-<!-- <br></br> -->
-
-<p align="center"> 📈 Passionate about both computers and fitness, always pushing myself to excel in these areas and stay balanced. </p>
-<br></br>
-
-<hr/>
-To touch upon some of my technical skills and the subjects that I'd look forward to having a discussion over a cup of coffee☕ on.....
-<br></br>
-
-### 💻 Languages I'm good at:
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.python.org/">
-    <img alt="Python" title="Python" src="imgs/images-removebg-preview.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://en.cppreference.com/w/cpp">
-    <img alt="C++" title="C++" src="imgs/cpp.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img alt="C" title="C" src="imgs/c.png" height="48" style="margin: 8px;">
-  </a>
-  <a href="https://www.java.com/en/">
-    <img alt="Java" title="Java" src="imgs/java.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/HTML">
-    <img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" title="MySQL" src="imgs/mysql.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="http://www.json.org">
-    <img alt="JSON" title="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://daringfireball.net/projects/markdown">
-    <img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.gnu.org/software/bash">
-    <img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://github.com/features/actions">
-    <img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42">
-  </a>
 </div>
 
-### 🧰 Libraries and Frameworks
+---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a href="https://pytorch.org/">
-    <img alt="PyTorch" title="PyTorch" src="imgs/pytorch.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img alt="Tensorflow" title="Tensorflow" src="imgs/tensorflow.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://opencv.org/">
-    <img alt="OpenCV" title="OpenCV" src="imgs/opencv.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://numpy.org/">
-    <img alt="NumPy" title="NumPy" src="imgs/np.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img alt="Pandas" title="Pandas" src="imgs/pandas.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img alt="MongoDB" title="MongoDB" src="imgs/mongo.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://expressjs.com/">
-    <img alt="ExpressJS" title="ExpressJS" src="imgs/express.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://react.dev/">
-    <img alt="ReactJS" title="ReactJS" src="imgs/react.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img alt="Bootstrap" title="Bootstrap" src="imgs/bootstrap.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.npmjs.com/">
-    <img alt="npm" title="npm" src="imgs/npm.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/">
-    <img alt="Flask" title="Flask" src="imgs/flask.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" title="Docker" src="imgs/docker.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://kubernetes.io/">
-    <img alt="Kubernetes" title="Kubernetes" src="imgs/kubernetes.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.selenium.dev/">
-    <img alt="Selenium" title="Selenium" src="imgs/selenium.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://scikit-learn.org/stable/">
-    <img alt="SciKitLearn" title="SciKitLearn" src="imgs/sklearn.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://huggingface.co/">
-    <img alt="HuggingFace" title="HuggingFace" src="imgs/hf.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.arduino.cc/">
-    <img alt="ArduinoUno" title="ArduinoUno" src="imgs/arduino.png" height="42" style="margin: 8px;">
-  </a>
+### 👋 About Me
+
+```text
+B.Tech CSE · PES University, Bengaluru
+Apache Impala · Data Warehouse · Cloudera
+```
+
+I'm a **Software Development Engineer I** at [**Cloudera**](https://www.cloudera.com/), on the **Data Warehouse** team — building and improving large-scale query engines and storage integrations that power modern analytics workloads.
+
+As an **Apache Impala** contributor, I've worked on **Apache Iceberg** integration within Impala, CatalogD enhancements, and observability features, enabling performant, transactional analytics on large-scale data lakes.
+
+I'm passionate about **distributed systems** and **big data**: query optimization, storage engines, and the systems that make analytical SQL fast at scale.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cloudera-FF5500?style=for-the-badge&logo=cloudera&logoColor=white" alt="Cloudera" />
+<img src="https://img.shields.io/badge/Apache-Impala-DF4A16?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Impala" />
+
 </div>
 
+---
 
-### 🔧 Tools
+### 🚀 Currently
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.anaconda.com/">
-    <img alt="Anaconda" title="Anaconda" src="imgs/anaconda.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img alt="PyCharm" title="PyCharm" src="imgs/pc.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.kaggle.com/">
-    <img alt="Kaggle" title="Kaggle" src="imgs/kaggle.png" height="48" style="margin: 8px;">
-  </a>
-  <a href="https://www.linux.org/">
-    <img alt="Linux" title="Linux" src="imgs/linux.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://ubuntu.com/">
-    <img alt="Ubuntu" title="Ubuntu" src="imgs/ubuntu.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="VSCode" title="VSCode" src="imgs/vsc.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://firebase.google.com/">
-    <img alt="Firebase" title="Firebase" src="imgs/firebase.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://jupyter.org/">
-    <img alt="Jupyter" title="Jupyter" src="imgs/jupyter.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://git-scm.com/">
-    <img alt="Git" title="Git" src="imgs/git.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://github.com/">
-    <img alt="Github" title="Github" src="imgs/github.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="#">
-    <img alt="Terminal" title="Terminal" src="imgs/terminal.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.adobe.com/">
-    <img alt="Adobe" title="Adobe" src="imgs/adobe.png" height="42" style="margin: 8px;">
-  </a>
-  <a href="https://www.sublimetext.com/">
-    <img alt="SublimeText" title="SublimeText" src="imgs/sublime.png" height="42" style="margin: 8px;">
-  </a>
+<img align="right" src="imgs/server.png" width="350" alt="Server illustration" style="margin-right: 40px;" />
+
+**⚙️ At Work** · `SDE-I` · Data Warehouse @ Cloudera
+
+- Query engine internals in **Apache Impala**
+- CatalogD, metadata & observability improvements
+- Performance & correctness at warehouse scale
+
+**🔬 Deep Diving** 
+
+- Distributed query execution & planning
+- Open table formats — **Iceberg**, Hive
+- Columnar storage & scan optimization
+- Lakehouse architecture patterns
+
+**🧭 Learning & Exploring**
+
+- Storage–compute separation at scale
+- Storage layer integrations for analytics
+- Systems that make SQL fast at scale
+
+**Happy to chat over coffee ☕ about Impala internals, Iceberg, C++ systems, or careers in big data.**
+
+---
+
+### 🌐 Open Source
+
+#### <img src="https://www.apache.org/logos/res/impala/impala.png" height="28" alt="Apache Impala" align="top" style="margin-right: 8px;" /> Apache Impala
+
+[![Repo](https://img.shields.io/badge/GitHub-apache%2Fimpala-181717?style=flat-square&logo=github)](https://github.com/apache/impala)
+[![Role](https://img.shields.io/badge/Role-Contributor-DF4A16?style=flat-square&logo=apache&logoColor=white)](https://impala.apache.org/)
+
+Apache Impala Contributor across the **query engine backend**, **catalogd**, and the **metadata layer** — Building features that improve analytical SQL performance and metrics instrumentation.
+
+I've worked on [**Apache Iceberg v3**](https://iceberg.apache.org/) features integration in Impala, spanning metadata, schema evolution, and engine-side support for open table formats.
+
+- 🔧 **Backend & catalogd** — Query engine, catalog service, and observability
+- 📦 **Metadata** — Iceberg table format support across Impala's catalog and metadata path
+- 🏗️ **Iceberg v3** — Feature integration for open table formats in Impala
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+
+<div align="center">
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 </div>
 
+#### 🗄️ Big Data & Distributed Systems
 
-### ☎️ Contact me
+<div align="center">
 
-<div style="display: flex; align-items: center;">
-  <a href="mailto:arnabk1108@gmail.com?subject=From your Github Profile">
-    <img alt="Gmail" title="Gmail" src="imgs/gmail.png" height="58" >
-  </a>
-  
-  <a href="https://linkedin.com/in/arnabkarmakarr/">
-    <img alt="LinkedIn" title="LinkedIn" src="imgs/linkedin.png" height="42" style="margin-left: 14px; margin-right: 20px">
-  </a>
+[![Apache Impala](https://img.shields.io/badge/Apache_Impala-DF4A16?style=for-the-badge&logo=apache&logoColor=white)](https://impala.apache.org/)
+[![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-00ADD8?style=for-the-badge&logo=apache&logoColor=white)](https://iceberg.apache.org/)
+[![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://hive.apache.org/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-  <a href="https://github.com/ArnabKarmakar1108">
-    <img alt="GitHub" title="GitHub" src="imgs/github.png" height="42">
-  </a>
 </div>
 
+#### 🤖 ML & Data Science
 
-### 🏆 GitHub Stats
+<div align="center">
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=ArnabKarmakar1108&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-![cheesits456's GitHub Stats][github-stats-img]
+</div>
 
-<!-- Link anchors -->
+#### 🧰 Tools & Web
 
-[github-stats-img]: https://github-readme-stats.vercel.app/api?username=ArnabKarmakar1108&theme=vision-friendly-dark&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true
+<div align="center">
 
-## My Repos ⬇️
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnabKarmakar1108&theme=github_dark" alt="GitHub Stats" />
+&nbsp;
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnabKarmakar1108&theme=github_dark" alt="Top Languages" />
+
+<br/><br/>
+
+<img height="195" src="https://streak-stats.demolab.com/?user=ArnabKarmakar1108&theme=github-dark" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabk1108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnabkarmakarr/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arnabk1108)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnabKarmakar1108)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Building systems that make big data feel small.</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ArnabKarmakar1108&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a8fd1&height=110&section=footer" width="100%" />
+
+</div>
